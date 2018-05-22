@@ -1,0 +1,11 @@
+/home/onesc/StudentApi/obj/Debug/netcoreapp2.0/StudentApi.csprojAssemblyReference.cache
+/home/onesc/StudentApi/obj/Debug/netcoreapp2.0/StudentApi.csproj.CoreCompileInputs.cache
+/home/onesc/StudentApi/obj/Debug/netcoreapp2.0/StudentApi.AssemblyInfoInputs.cache
+/home/onesc/StudentApi/obj/Debug/netcoreapp2.0/StudentApi.AssemblyInfo.cs
+/home/onesc/StudentApi/bin/Debug/netcoreapp2.0/StudentApi.deps.json
+/home/onesc/StudentApi/bin/Debug/netcoreapp2.0/StudentApi.runtimeconfig.json
+/home/onesc/StudentApi/bin/Debug/netcoreapp2.0/StudentApi.runtimeconfig.dev.json
+/home/onesc/StudentApi/bin/Debug/netcoreapp2.0/StudentApi.dll
+/home/onesc/StudentApi/bin/Debug/netcoreapp2.0/StudentApi.pdb
+/home/onesc/StudentApi/obj/Debug/netcoreapp2.0/StudentApi.dll
+/home/onesc/StudentApi/obj/Debug/netcoreapp2.0/StudentApi.pdb
